@@ -1,9 +1,9 @@
 /*01*/ import javax.swing.JOptionPane;
-/*02*/ public class DigitoVerificador 
+/*02*/ public class Principal2 
 /*03*/ {
 /*04*/            public static void main(String args[])
 /*05*/            {
-/*06*/    	String strOriginal = JOptionPane.showInputDialog("Digite o número:");
+/*06*/    	String strOriginal = JOptionPane.showInputDialog("Digite o nï¿½mero:");
 /*07*/                  String num = strOriginal;
 /*08*/                  int tamanho = num.length();
 /*09*/                  int soma = 0;
@@ -19,7 +19,7 @@
 /*19*/                        tamanho = num.length();
 /*20*/                 }/*finish while*/	  
 /*21*/                 String resultado = strOriginal+ "-" + soma;
-/*22*/                 JOptionPane.showMessageDialog(null,"O número com seu dígito "+
-/*23*/                           "verificador é: "+ resultado);
+/*22*/                 JOptionPane.showMessageDialog(null,"O nï¿½mero com seu dï¿½gito "+
+/*23*/                           "verificador ï¿½: "+ resultado);
 /*24*/            }/*finish public static void main*/
 /*25*/ }/*finish public class*/

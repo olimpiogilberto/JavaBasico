@@ -6,17 +6,17 @@ class Calculos
 		return(n1 + n2);
 		
 	}
-	public static float subtração(float n1, float n2)
+	public static float subtracao(float n1, float n2)
 	{
 		return(n1 - n2);
 		
 	}
-	public static float multiplicação(float n1, float n2)
+	public static float multiplicacao(float n1, float n2)
 	{
 		return(n1 * n2);
 		
 	}
-	public static float divisão(float n1, float n2)
+	public static float divisao(float n1, float n2)
 	{
 		return(n1 / n2);
 		
