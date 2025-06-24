@@ -1,7 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-package ocpjp.javaFundamentals.primitiveTypes;
